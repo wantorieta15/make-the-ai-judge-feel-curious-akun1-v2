@@ -1,6 +1,8 @@
 # Make the AI judge feel curious — v2 (Akun 1)
 
-[![make.fun](https://make.fun/badge/make-the-ai-judge-feel-curious-20261122-2311.svg)](https://make.fun/competitions/make-the-ai-judge-feel-curious-20261122-2311)
+[![make.fun · make-the-ai-judge-feel-curious-20261122-2311](https://make.fun/badge/make-the-ai-judge-feel-curious-20261122-2311.svg)](https://make.fun/bounty/make-the-ai-judge-feel-curious-20261122-2311?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-curious-20261122-2311)
+[![rank](https://make.fun/badge/make-the-ai-judge-feel-curious-20261122-2311/wantorieta15/make-the-ai-judge-feel-curious-akun1-v2/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-curious-20261122-2311/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-curious-20261122-2311)
+[![reward](https://make.fun/badge/make-the-ai-judge-feel-curious-20261122-2311/wantorieta15/make-the-ai-judge-feel-curious-akun1-v2/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-curious-20261122-2311?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-curious-20261122-2311)
 
 Entri Akun 1 (@walta-exchange) untuk bounty **make-the-ai-judge-feel-curious-20261122-2311** ($50).
 
